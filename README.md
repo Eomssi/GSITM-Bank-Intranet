@@ -2,9 +2,6 @@
 ### 소개
 
 **사내 직원들이 고객, 상품, 일정을 통합 관리할 수 있는 금융사 내부 인트라넷 시스템 구축**
-
-![screencapture-codechefproject-env-eba-jmbpid37-ap-northeast-2-elasticbeanstalk-main-2024-12-19-14_01_24.png](attachment:d53e1738-53e9-432b-a3df-5259736c88e0:screencapture-codechefproject-env-eba-jmbpid37-ap-northeast-2-elasticbeanstalk-main-2024-12-19-14_01_24.png)
-
 - **진행 기간**: 2024.11.12 - 12.03
 - **팀 구성**: 9인 (풀스택)
 - **주요 타겟**: 금융사 내부 직원, 관리자
